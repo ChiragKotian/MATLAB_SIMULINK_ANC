@@ -1,6 +1,7 @@
 # MATLAB_SIMULINK_ANC
 
-![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/9bc2047d-d590-4804-bfc7-3194f22c7b28)
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/bc9c43fc-bafd-4462-b59e-2671983e0a76)
+
 
 ![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/dbe78322-cdd1-4624-aad1-9d367a96abc9)
 

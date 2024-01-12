@@ -1,3 +1,5 @@
-## You can find the videos of we explaining the model here
+## You can find the videos of us explaining the model:
 
-https://youtu.be/coY9dYk_Bcc
+### Chirag Kotian and Manukrishna
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xdkVECksw6o?si=xhpfVCSpiOBLTp1K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -21,6 +21,42 @@
 
 <img width="960" alt="image" src="https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/143694803/2ed6709b-0900-4895-917a-9198255cf093">
 
+## Steps involved while making the model
+
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/0ab80989-22cc-475c-991a-19c007c19115)
+
+
+## Simulink Model
+
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/956cd2d9-0517-4d1f-8572-78135f2b07b5)
+
+### Model in detail
+
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/53405500-638e-456d-9705-10dea340f743)
+
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/cd739c94-d305-440c-9886-190af4b3d4f3)
+
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/90ef0984-f100-4f63-8887-1417dd79edce)
+
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/5aa8753e-e1e2-41ab-ab37-641088e75f0a)
+
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/155e60b4-b366-4916-9542-a913490a01e5)
+
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/9deb0cca-e508-4940-8ea5-02779e9aee6b)
+
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/c02853e8-2c3c-490a-83e9-02a2a2d23228)
+
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/29720995-8c4c-43c5-b01f-4396948f7290)
+
+
+## Features of the model
+
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/ec7ebf2b-39f7-4ff2-8ae4-43e5c5797a73)
+
+
+## Limitations of the model
+
+![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/3d6d1679-5542-4a6f-9d40-560f372e5445)
 
 
 

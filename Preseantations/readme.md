@@ -1,1 +1,1 @@
-## You can find the presentations we used in ppt here
+## You can find the presentations we used here

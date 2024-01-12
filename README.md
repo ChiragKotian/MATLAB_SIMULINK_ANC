@@ -11,9 +11,7 @@
 
 ![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/8b92485e-8a87-4d9d-b3af-e994304719d5)
 
-![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/e75dcdcb-38d8-4e8d-b097-3df92447b578)
 
-![image](https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/117931123/74fb311b-c39a-46d5-bd10-c12dd2f6d414)
 
 
 ## Credits

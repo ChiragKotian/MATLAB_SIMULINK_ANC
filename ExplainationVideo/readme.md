@@ -3,6 +3,8 @@
 ### ---Chirag Kotian and Manukrishna
 
 
-<video width="630" height="300" src="https://www.youtube.com/embed/xdkVECksw6o?si=xhpfVCSpiOBLTp1K"></video>
+[<img src="https://img.youtube.com/vi/xdkVECksw6o?si=xhpfVCSpiOBLTp1K/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/xdkVECksw6o?si=xhpfVCSpiOBLTp1K)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdkVECksw6o?si=xhpfVCSpiOBLTp1K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

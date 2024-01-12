@@ -19,7 +19,8 @@
 
 <img width="959" alt="image" src="https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/143694803/15a4b21c-3393-457e-b7f7-66c3f6e15302">
 
-<img width="960" alt="image" src="https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/143694803/b6333afe-297a-45df-b24d-20aca81bba5b">
+<img width="960" alt="image" src="https://github.com/ChiragKotian/MATLAB_SIMULINK_ANC/assets/143694803/2ed6709b-0900-4895-917a-9198255cf093">
+
 
 
 

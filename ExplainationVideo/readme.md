@@ -1,4 +1,4 @@
-## You can find the videos of us explaining the model:
+## You can find the videos of us explaining the model
 
 ### ---_Chirag Kotian and M.Manukrishna_--
 
